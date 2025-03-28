@@ -3,11 +3,11 @@
     "links": [
         {
             "name": "MT4",
-            "link": "https://github.com/alexssource2/TraderToolbox/raw/master/release/mt4/TraderToolbox-1.4.0-RELEASE.zip"
+            "link": "https://github.com/alexssource2/TraderToolbox/raw/master/release/mt4/TraderToolbox-1.6.0-RELEASE.zip"
         },
         {
             "name": "MT5",
-            "link": "https://github.com/alexssource2/TraderToolbox/raw/master/release/mt5/TraderToolbox-1.4.0-RELEASE.MT5.zip"
+            "link": "https://github.com/alexssource2/TraderToolbox/raw/master/release/mt5/TraderToolbox-1.6.0-RELEASE.MT5.zip"
         }
     ]
 }
